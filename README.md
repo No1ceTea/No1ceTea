@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center"> Salut, c'est No1ceTea </h1>
 
-<!--
-**No1ceTea/No1ceTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 algin="center">Un étudiant de 20 ans en développement informatique </h3>
 
-Here are some ideas to get you started:
+<p align="center">  </p>
+ 
+ - Actuellement étudiant en **BTS SIO SLAM**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - En formation pour devenir **développeur web ou chef de projet**
+
+ - Visite mon portfolio sur []()
+
+ - N'hésite pas à me contacter à **jacquot.thai@gmail.com**
+
+
