@@ -8,8 +8,8 @@
 
  - En formation pour devenir **développeur web ou chef de projet**
 
- - Visite mon portfolio sur []()
+ - Visite mon portfolio sur [https://jacquot-thai.vercel.app/](https://jacquot-thai.vercel.app/)
 
- - N'hésite pas à me contacter à **jacquot.thai@gmail.com**
+ - N'hésite pas à me contacter sur **jacquot.thai@gmail.com**
 
 
