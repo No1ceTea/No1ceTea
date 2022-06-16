@@ -7,7 +7,7 @@
 
 <p align="center">
  🔬 Je suis actuellement étudiant en seconde année de BTS SIO SLAM au Lycée Polyvalent de Cachan
- 📚 J'apprend actuellement le React et le Python
+ 📚 J'apprend actuellement le React et VueJS
  📫 Vous pouvez me contactet via : <a href="mailto: jacquot.thai@gmail.com">jacquot.thai@gmail.com</a>
 </p>
 
