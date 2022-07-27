@@ -7,7 +7,9 @@
 
 <p align="center">
  🔬 Je suis actuellement étudiant en première année d'un cycle ingénieur pour préparer un titre RNCP de Concepteur développeur d'application et par la suite un RNCP de Chef de projet système d'information
+ <br>
  📚 J'apprend actuellement Angular, React et à utilisé PlanetScale via quelque projet que vous pouvez retrouver ici
+ <br>
  📫 Vous pouvez me contactet via : <a href="mailto: jacquot.thai@gmail.com">jacquot.thai@gmail.com</a>
 </p>
 
