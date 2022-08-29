@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! It's No1ceTea 👋</h1>
+<h1 align="center"> Hi! I'm No1ceTea 👋</h1>
 
 <h5 align="center" p={4}>
  <code><a href="#" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
