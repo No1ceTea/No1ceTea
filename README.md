@@ -12,7 +12,7 @@
  <br>
  📫 Contact me : <a href="mailto: jacquot.thai@gmail.com">jacquot.thai@gmail.com</a>
  
- <img https://discord.c99.nl/widget/theme-1/358927644340781064.png />
+ <img alt="discord tag" src='https://discord.c99.nl/widget/theme-1/358927644340781064.png' />
 </p>
 
 <hr>
