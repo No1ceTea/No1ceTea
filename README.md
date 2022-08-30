@@ -11,7 +11,7 @@
  🔭 I’m currently working on my neovim setup and React
  <br>
  📫 Contact me : <a href="mailto: jacquot.thai@gmail.com">jacquot.thai@gmail.com</a>
- 
+ <br>
  <img alt="discord tag" src='https://discord.c99.nl/widget/theme-1/358927644340781064.png' />
 </p>
 
