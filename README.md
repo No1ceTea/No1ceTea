@@ -6,7 +6,7 @@
 </h5>
 
 <p align="center">
- 🔬  I’m studying at INstitut G4 Paris 
+ 🔬  I’m studying at Institut G4 Paris 
  <br>
  🔭 I’m currently working on my neovim setup and React
  <br>
