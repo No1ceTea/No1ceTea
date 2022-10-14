@@ -9,7 +9,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Jacquot Thai | 💻 Student Developer | 🛸 French , Paris <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-## 🛠️ My favorite tools
+<h2 align="center">🛠️ My favorite tools 🛠️</h2>
 
 ### 👨‍💻 Programming and markup languages
 
