@@ -108,4 +108,4 @@
 
 
 <h2 align="center">📊 Github stats 📊</h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="No1ceTea Activity Graph" src="https://No1ceTea-activity-graph.herokuapp.com/graph/?username=No1ceTea&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<img alt="No1ceTea Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=No1ceTea&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
