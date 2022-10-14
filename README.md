@@ -1,8 +1,8 @@
 <h1 align="center"> Hi! I'm No1ceTea 👋</h1>
 
 <h5 align="center" p={4}>
- <code><a href="#" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
- <code><a href="https://instagram.com/no1cetea/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+ <code><a href="#" title="LinkedIn Profile" target="_blank"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+ <code><a href="https://instagram.com/no1cetea/" title="Instagram Profile" target="_blank"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
 <p align="center">
