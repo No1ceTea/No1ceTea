@@ -71,3 +71,7 @@
 <h4 align="center">
   <a href="https://github.com/No1ceTea?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/No1ceTea/No1ceTea/svg/Bottom.svg" alt="Github Stats" />
+</p>
