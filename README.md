@@ -100,12 +100,11 @@
 
 <h2 align="center">🔥 Streak stats 🔥</h2>
 <p align="center">
-  <a href="https://github.com/No1ceTea/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="No1ceTea streak" src="https://streak-stats.demolab.com/?user=No1ceTea&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 
 <h2 align="center">📊 Github stats 📊</h2>
-<img alt="No1ceTea Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=No1ceTea&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<p align="center">
+    <img alt="No1ceTea Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=No1ceTea&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
