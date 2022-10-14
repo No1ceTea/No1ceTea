@@ -96,3 +96,12 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
+
+<h2 align="center">🔥 Streak stats 🔥</h2>
+<p align="center">
+  <a href="https://github.com/No1ceTea/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="No1ceTea streak" src="https://streak-stats.demolab.com/?user=No1ceTea&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
