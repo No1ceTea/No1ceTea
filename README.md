@@ -5,15 +5,9 @@
  <code><a href="https://instagram.com/no1cetea/" title="Instagram Profile" target="_blank"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
-<p align="center">
- 🔬  I’m studying at Institut G4 Paris 
- <br>
- 🔭 I’m currently working on my neovim setup and React
- <br>
- 📫 Contact me : <a href="mailto: jacquot.thai@gmail.com">jacquot.thai@gmail.com</a>
- <br>
- <img alt="discord tag" src='https://discord.c99.nl/widget/theme-1/358927644340781064.png' />
-</p>
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Jacquot Thai | 💻 Student Developer | 🛸 French , Paris <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
 <hr>
 <p align="center">
