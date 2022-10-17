@@ -102,5 +102,5 @@
 
 <h2 align="center"> Most language use</h2>
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=no1cetea&layout=compact&bg_color=1F222E&title_color=F8D866&hide_border=true" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=no1cetea&layout=compact" />
 </p>
