@@ -99,3 +99,8 @@
 <p align="center">
     <img alt="No1ceTea Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=No1ceTea&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
+
+<h2 align="center"> Most language use</h2>
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=no1cetea&layout=compact&bg_color=1F222E&colorF8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
