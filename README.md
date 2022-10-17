@@ -94,10 +94,9 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-
 <h2 align="center">📘 My top open source projects 📘</h2>
 <p align="left">
-  <a href="https://github.com/No1ceTea/no1cetea-portfolio"><img width="278" src="https://no1cetea-github-readme-stats.vercel.app/api/pin/?username=No1ceTea&repo=no1cetea-portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="no1cetea-portfolio"></a>
+  <a href="https://github.com/No1ceTea/no1cetea-portfolio"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=no1cetea&repo=no1cetea-portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="no1cetea-portfolio"></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
@@ -115,12 +114,10 @@
   <a href="https://github.com/No1ceTea?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-
 <h2 align="center">🔥 Streak stats 🔥</h2>
 <p align="center">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="No1ceTea streak" src="https://streak-stats.demolab.com/?user=No1ceTea&theme=monokai-metallian&hide_border=true"/>
 </p>
-
 
 <h2 align="center">📊 Github stats 📊</h2>
 <p align="center">
