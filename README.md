@@ -15,6 +15,10 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Jacquot Thai | 💻 Student Full-stack Developer | 🛸 French, Paris <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+<div align="center">
+<img alt="discord tag" src='https://discord.c99.nl/widget/theme-1/358927644340781064.png' />
+</div>
+
 <h2 align="center">🛠️ My favorite tools 🛠️</h2>
 
 ### 👨‍💻 Programming and markup languages
