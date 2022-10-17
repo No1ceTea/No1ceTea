@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Jacquot Thai | 💻 Student Full-stack Developer | 🛸 French ,Paris <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Jacquot Thai | 💻 Student Full-stack Developer | 🛸 French, Paris <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <h2 align="center">🛠️ My favorite tools 🛠️</h2>
